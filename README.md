@@ -28,9 +28,7 @@ heute habe ich sogar sehr viel gearbeitet ich habe die aufgabe 2 erledigt und bi
 -die aufagabe fetig machen
 -gut und konzentriert arbeiten
 -viel neues lernen
-(Heute habe ich... (50-100 Wörter))
 habe ich oben schon gemacht.
 
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (50-100 Wörter))
 hab ich eigentlich auch oben schon gemacht.
