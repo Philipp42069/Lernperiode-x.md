@@ -165,3 +165,10 @@ ich habe alles gemacht was ich machen wollte. Ich habe mit Berksan und Arshayan 
 recht viel in der website weiter gemacht. Ich habe ein grid hinzugefügt und habe gelernt wie man das machen kann ich habe eine liste gemacht, ein Foto geändert
 und noch bei der Navigation zwei links gemacht die auf verschidene sachen auf der website gehen und dann denn hintergrund verändern.
 http://127.0.0.1:5500/index.html
+
+feinplanung 29.05.2026
+1. ich werde heute wieder an meiner webseite arbeiten 
+2. und noch mit powershell arbeiten, um das modul 122 besser zuverstehen 
+
+Reflexion heute 
+Ich habe alles gemacht was ich in der plannung hatte und ich habe sehr gut gearbeitet und viel gelernt.
